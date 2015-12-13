@@ -4,6 +4,9 @@ This is a simple game for my daughter, as a submission for LD34. The theme was a
 
 This game was written in a 14 hour marathon. Most of the assets were obtained from others (sources below); several were also edited. I used Unity 5.2.3f1, Visual Studio Community 2015, Paint .NET and Notepad++.
 
+![screenshot](https://github.com/sraboy/ShapeCaster/blob/master/screenshot-1.png)
+![screenshot](https://github.com/sraboy/ShapeCaster/blob/master/screenshot-2.png)
+
 # how to play
 
 See the "zips" directory for builds for multiple targets. I haven't tested all of them but the x86 Windows & Linux builds should word. The WebGL build will require Firefox these days, due to security changes in other browsers.
