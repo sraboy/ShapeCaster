@@ -9,7 +9,7 @@ This game was written in a 14 hour marathon. Most of the assets were obtained fr
 
 # how to play
 
-See the "zips" directory for builds for multiple targets. I haven't tested all of them but the x86 Windows & Linux builds should word. The WebGL build will require Firefox these days, due to security changes in other browsers.
+See the "zips" directory for builds for multiple targets. I haven't tested all of them but the x86 Windows & Linux builds should work. The WebGL build will require Firefox these days, due to security changes in other browsers.
 
 Press "Fire" to zap chickens into a tasty meal. Eat the meals by colliding with them and watch your wizard grow. You can jump to avoid chickens but they are very unlikely to leave you alone; you'll be hurt if they reach you and that will cause you to shrink. Also, every shot saps your energy and causes you to shrink. Get too small and you'll lose the game!
 
